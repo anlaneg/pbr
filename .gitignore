@@ -34,3 +34,5 @@ doc/source/reference/api/
 # Editor files
 *~
 *.swp
+.project
+.pydevproject
